@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_snapshot">
+    <sys_hub_action_type_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Get the value of an application property.</description>
+        <internal_name>get_property</internal_name>
+        <label_cache>[{"name":"{{action.property1}}","label":"action➛Property","type":"action","ref":""},{"name":"{{step[8efe46e3-4ac3-4e8e-968e-18eeb0fe3f11].property_value}}","label":"step➛Look up Application Property➛property_value","type":"step","ref":""}]</label_cache>
+        <master>true</master>
+        <name>Get Property</name>
+        <outputs/>
+        <outputs/>
+        <parent_action display_value="Get Property">e9c397f7db323300d10158b3ca961973</parent_action>
+        <sys_class_name>sys_hub_action_type_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-30 01:56:15</sys_created_on>
+        <sys_id>c80e2180dbc73300d10158b3ca961967</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Get Property</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_81147_needit_spo">a31317b3db323300d10158b3ca9619b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">a31317b3db323300d10158b3ca9619b7</sys_scope>
+        <sys_update_name>sys_hub_action_type_snapshot_c80e2180dbc73300d10158b3ca961967</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-30 01:56:16</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=c80e2180dbc73300d10158b3ca961967"/>
+    <sys_variable_value action="delete_multiple" query="document_key=c80e2180dbc73300d10158b3ca961967"/>
+    <sys_element_mapping action="delete_multiple" query="id=c80e2180dbc73300d10158b3ca961967"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>property_value</field>
+        <id>c80e2180dbc73300d10158b3ca961967</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-30 01:56:16</sys_created_on>
+        <sys_id>440e2180dbc73300d10158b3ca96198e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-30 01:56:16</sys_updated_on>
+        <table>var__m_sys_hub_action_output_c80e2180dbc73300d10158b3ca961967</table>
+        <value>{{step[8efe46e3-4ac3-4e8e-968e-18eeb0fe3f11].property_value}}</value>
+    </sys_element_mapping>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="reason" label="Reason" language="en" table="var__m_sys_hub_flow_input_95a3b504dbc73300d10158b3ca96195c">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>reason</element>
+            <help/>
+            <hint>What is the reason for closing the NeedIt Task?</hint>
+            <label>Reason</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_95a3b504dbc73300d10158b3ca96195c</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-30 02:27:20</sys_created_on>
+            <sys_id>83153584dbc73300d10158b3ca96193d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Reason</sys_name>
+            <sys_package display_value="NeedIt Spoke" source="x_81147_needit_spo">a31317b3db323300d10158b3ca9619b7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt Spoke">a31317b3db323300d10158b3ca9619b7</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_95a3b504dbc73300d10158b3ca96195c_reason_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-30 02:27:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
